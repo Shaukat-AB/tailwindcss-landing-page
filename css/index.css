@@ -1,0 +1,16 @@
+* {
+   scroll-behavior: smooth;
+}
+
+a {
+   cursor: pointer;
+}
+
+#feature svg,
+#solution svg {
+   color: #1e3a8a !important;
+}
+
+#footer svg:hover {
+   color: #f59e0b;
+}
